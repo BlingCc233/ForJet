@@ -39,6 +39,6 @@ echo   "hosts文件修改完成"
 @ipconfig /flushdns
 @echo   "刷新DNS完成"
 call echo d|xcopy /r /c /h /q /s /e /i /y "%~dp0"micool_config\JetBrainscode" c:\激活码_备用 正常情况无需使用 2>nul
-ECHO 激活成功！       By：米酷网络科技 别家买的是盗版 尽快退款
-set msg="恭喜已经成功激活！\n重启软件生效\n如果未激活成功的话\n请使用备用方案或者拍下远程帮装"
+ECHO 激活成功！       By：BlingCc
+set msg="恭喜已经成功激活！\n重启软件生效\n如果未激活成功的话\n请使用备用方案"
 pauses

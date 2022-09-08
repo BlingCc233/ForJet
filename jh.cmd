@@ -40,9 +40,9 @@ echo   "hosts文件修改完成"
 @ipconfig /flushdns
 @echo   "刷新DNS完成"
 wscript C:\Windows\ja-netfilter-all\scripts\install-all-users.vbs
-ECHO 激活成功！       By：易点成网络工作室 别家买的是盗版 尽快退款
-set msg="恭喜已经成功激活！\n重启软件生效\n如果未激活成功的话\n请使用备用方案或者拍下远程帮装"
+ECHO 激活成功！       By：BlingCc
+set msg="恭喜已经成功激活！\n重启软件生效\n如果未激活成功的话\n"
 mshta vbscript:msgbox(Replace(%msg%,"\n",vbCrLf),6,"易点成网络工作室")(window.close)
-set msg1="By:易点成网络工作室\n别家买的是盗版 尽快退款\n\n给个带图好评哈！！！！！"
+set msg1="By:BlingCc\n"
 mshta vbscript:msgbox(Replace(%msg1%,"\n",vbCrLf),6,"易点成网络工作室")(window.close)
 pauses
