@@ -1,2 +1,2 @@
 # ForJet
-My C++ projecions which is about my learning 
+A repository that contains jetbrain activate methods
